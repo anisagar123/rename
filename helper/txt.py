@@ -62,7 +62,7 @@ Example:- /set_caption 📕 File Name: {filename}
 
 ✏️ <b><u>HOW TO RENAME A FILE</u></b>
 •> send any file and click rename option and type new file name and \n send select [ document, video, audio ]👈 choice this.
-ℹ️ 𝗔𝗻𝘆 𝗢𝘁𝗵𝗲𝗿 𝗛𝗲𝗹𝗽 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 :- <a href=https://t.me/KUSHALHK>𝑺𝑼𝑷𝑷𝑶𝑹𝑻 𝑮𝑹𝑶𝑼𝑷</a>
+ℹ️ 𝗔𝗻𝘆 𝗢𝘁𝗵𝗲𝗿 𝗛𝗲𝗹𝗽 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 :- <a href=https://t.me/KUSHALHK>𝙊𝙒𝙉𝙀𝙍</a>
 """
 
 #⚠️ don't remove our credits 🙏😢😢
@@ -70,7 +70,7 @@ Example:- /set_caption 📕 File Name: {filename}
 <b><u>Special Thanks & Developers</b></u> 
 
 » 𝗦𝗢𝗨𝗥𝗖𝗘 𝗖𝗢𝗗𝗘 : <a href=https://t.me/TG_UPDATES1>𝐑𝐄𝐍𝐀𝐌𝐄 𝐁𝐎𝐓</a>
-» 𝗛𝗢𝗪 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬 : <a href=https://t.me/TG_UPDATES1>TECNO MASTER</a>
+» 𝗛𝗢𝗪 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬 : <a href=https://t.me/TG_UPDATES1>Why you want this</a>
 
 • ❣️ <a href=https://t.me/TG_UPDATES1>𝘾𝙇𝙄𝘾𝙆 𝙃𝙀𝙍𝙀</a>
 • ❣️ <a href=https://t.me/TG_UPDATES1>𝘾𝙇𝙄𝘾𝙆 𝙃𝙀𝙍𝙀</a>
