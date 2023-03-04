@@ -2,15 +2,15 @@ import re, os
 
 id_pattern = re.compile(r'^.\d+$') 
 
-API_ID = os.environ.get("API_ID", "")
+API_ID = os.environ.get("API_ID", "15671595")
 
-API_HASH = os.environ.get("API_HASH", "")
+API_HASH = os.environ.get("API_HASH", "bb8f36f9c39a24c7f8b2acbc7ea8c60a")
 
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "") 
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "5879389660:AAHWvhjQpxMIBhTSObCXUOrzVaNYTN6MQOc") 
 
-FORCE_SUB = os.environ.get("FORCE_SUB", "") 
+FORCE_SUB = os.environ.get("FORCE_SUB", "TG_UPDATES1") 
 
-DB_NAME = os.environ.get("DB_NAME","")     
+DB_NAME = os.environ.get("DB_NAME","Cluster0")     
 
 DB_URL = os.environ.get("DB_URL","")
  
