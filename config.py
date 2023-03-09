@@ -12,7 +12,7 @@ FORCE_SUB = os.environ.get("FORCE_SUB", "TG_UPDATES1")
 
 DB_NAME = os.environ.get("DB_NAME","Cluster0")     
 
-DB_URL = os.environ.get("DB_URL","mongodb+srv://Rename:Rename@cluster0.vlfzuid.mongodb.net/?retryWrites=true&w=majority")
+DB_URL = os.environ.get("DB_URL","mongodb+srv://King:King@cluster0.nuc8bhf.mongodb.net/?retryWrites=true&w=majority")
  
 FLOOD = int(os.environ.get("FLOOD", "10"))
 
