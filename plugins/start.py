@@ -42,7 +42,7 @@ async def start(client, message):
         InlineKeyboardButton("👼 𝙳𝙴𝚅𝚂 👼", callback_data='dev')
         ],[
         InlineKeyboardButton('📢 𝚄𝙿𝙳𝙰𝚃𝙴𝚂', url='https://t.me/TG_UPDATES1'),
-        InlineKeyboardButton('🍂 𝚂𝚄𝙿𝙿𝙾𝚁𝚃', url='https://t.me/moviessearchalllanguage')
+        InlineKeyboardButton('🍂 𝚂𝚄𝙿𝙿𝙾𝚁𝚃', url='https://t.me/TG_LINKS_CHANNEL')
         ],[
         InlineKeyboardButton('🍃 𝙰𝙱𝙾𝚄𝚃', callback_data='about'),
         InlineKeyboardButton('ℹ️ 𝙷𝙴𝙻𝙿', callback_data='help')
@@ -84,7 +84,7 @@ async def cb_handler(client, query: CallbackQuery):
                 InlineKeyboardButton("👼 𝙳𝙴𝚅𝚂 👼", callback_data='dev')                
                 ],[
                 InlineKeyboardButton('📢 𝚄𝙿𝙳𝙰𝚃𝙴𝚂', url='https://t.me/TG_UPDATES1'),
-                InlineKeyboardButton('🍂 𝚂𝚄𝙿𝙿𝙾𝚁𝚃', url='https://t.me/moviessearchalllanguage')
+                InlineKeyboardButton('🍂 𝚂𝚄𝙿𝙿𝙾𝚁𝚃', url='https://t.me/TG_LINKS_CHANNEL')
                 ],[
                 InlineKeyboardButton('🍃 𝙰𝙱𝙾𝚄𝚃', callback_data='about'),
                 InlineKeyboardButton('ℹ️ 𝙷𝙴𝙻𝙿', callback_data='help')
@@ -98,7 +98,7 @@ async def cb_handler(client, query: CallbackQuery):
                #⚠️ don't change source code & source link ⚠️ #
                InlineKeyboardButton("❣️ 𝚂𝙾𝚄𝚁𝙲𝙴", url="https://t.me/movies_hub_official1")
                ],[
-               InlineKeyboardButton("❤️‍🔥 𝙷𝙾𝚆 𝚃𝙾 𝚄𝚂𝙴  ❤️‍🔥", url='https://t.me/TG_UPDATES1')
+               InlineKeyboardButton("❤️‍🔥 𝙷𝙾𝚆 𝚃𝙾 𝚄𝚂𝙴  ❤️‍🔥", url='https://t.me/TG_LINKS_CHANNEL')
                ],[
                InlineKeyboardButton("🔒 𝙲𝙻𝙾𝚂𝙴", callback_data = "close"),
                InlineKeyboardButton("◀️ 𝙱𝙰𝙲𝙺", callback_data = "start")
@@ -113,7 +113,7 @@ async def cb_handler(client, query: CallbackQuery):
                #⚠️ don't change source code & source link ⚠️ #
                InlineKeyboardButton("❣️ 𝚂𝙾𝚄𝚁𝙲𝙴", url="https://t.me/movies_hub_official1")
                ],[
-               InlineKeyboardButton("🖥️ 𝙷𝙾𝚆 𝚃𝙾 𝙼𝙰𝙺𝙴", url="https://t.me/TG_UPDATES1")
+               InlineKeyboardButton("🖥️ 𝙷𝙾𝚆 𝚃𝙾 𝙼𝙰𝙺𝙴", url="https://t.me/TG_LINKS_CHANNEL")
                ],[
                InlineKeyboardButton("🔒 𝙲𝙻𝙾𝚂𝙴", callback_data = "close"),
                InlineKeyboardButton("◀️ 𝙱𝙰𝙲𝙺", callback_data = "start")
@@ -127,7 +127,7 @@ async def cb_handler(client, query: CallbackQuery):
                #⚠️ don't change source code & source link ⚠️ #
                InlineKeyboardButton("❣️ 𝚂𝙾𝚄𝚁𝙲𝙴", url="https://t.me/movies_hub_official1")
                ],[
-               InlineKeyboardButton("🖥️ 𝙷𝙾𝚆 𝚃𝙾 𝙼𝙰𝙺𝙴", url="https://t.me/TG_UPDATES1")
+               InlineKeyboardButton("🖥️ 𝙷𝙾𝚆 𝚃𝙾 𝙼𝙰𝙺𝙴", url="https://t.me/TG_LINKS_CHANNEL")
                ],[
                InlineKeyboardButton("🔒 𝙲𝙻𝙾𝚂𝙴", callback_data = "close"),
                InlineKeyboardButton("◀️ 𝙱𝙰𝙲𝙺", callback_data = "start")
