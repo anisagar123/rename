@@ -37,10 +37,10 @@ class mr(object):
 ╭───────────⍟
 ├🤖 𝙼𝚈 𝙽𝙰𝙼𝙴 : {}
 ├👑 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁𝚂 : <a href=https://t.me/KUSHALHK>𝙊𝙒𝙉𝙀𝙍</a> 
-├👨‍💻 𝙿𝚁𝙾𝙶𝚁𝙰𝙼𝙴𝚁 : <a href=https://t.me/moviessearchalllanguage>𝘾𝙇𝙄𝘾𝙆 𝙃𝙀𝙍𝙀</a>
-├📕 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 : <a href=https://t.me/TG_UPDATES1>𝘾𝙇𝙄𝘾𝙆 𝙃𝙀𝙍𝙀</a>
-├✏️ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 : <a href=https://t.me/moviessearchalllanguage>𝙋𝙔𝙏𝙃𝙊𝙉 3</a>
-├💾 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴 : <a href=https://t.me/TG_UPDATES1>𝘾𝙇𝙄𝘾𝙆 𝙃𝙀𝙍𝙀</a>
+├👨‍💻 𝙿𝚁𝙾𝙶𝚁𝙰𝙼𝙴𝚁 : <a href=https://t.me/TG_SUPPORTER>𝘾𝙇𝙄𝘾𝙆 𝙃𝙀𝙍𝙀</a>
+├📕 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 : <a href=https://t.me/TG_UPDATES1>UPDATES CHANNEL</a>
+├✏️ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 : <a href=https://t.me/TG_LINKS_CHANNEL>CHANNEL 1</a>
+├💾 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴 : <a href=https://t.me/TG_LINKS_CHANNEL>𝘾𝙇𝙄𝘾𝙆 𝙃𝙀𝙍𝙀</a>
 ├📊 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚄𝚂 : v2.1.90 [ ꜱɪɢᴍᴀ 🗿 ]              
 ╰───────────────⍟
                                 """
@@ -72,10 +72,6 @@ Example:- /set_caption 📕 File Name: {filename}
 » 𝗦𝗢𝗨𝗥𝗖𝗘 𝗖𝗢𝗗𝗘 : <a href=https://t.me/TG_UPDATES1>𝐑𝐄𝐍𝐀𝐌𝐄 𝐁𝐎𝐓</a>
 » 𝗛𝗢𝗪 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬 : <a href=https://t.me/TG_UPDATES1>Why you want this</a>
 
-• ❣️ <a href=https://t.me/TG_UPDATES1>𝘾𝙇𝙄𝘾𝙆 𝙃𝙀𝙍𝙀</a>
-• ❣️ <a href=https://t.me/TG_UPDATES1>𝘾𝙇𝙄𝘾𝙆 𝙃𝙀𝙍𝙀</a>
-• ❣️ <a href=https://t.me/TG_UPDATES1>𝘾𝙇𝙄𝘾𝙆 𝙃𝙀𝙍𝙀</a>
-• ❣️ <a href=https://t.me/TG_UPDATES1>𝘾𝙇𝙄𝘾𝙆 𝙃𝙀𝙍𝙀</a>
-• ❣️ <a href=https://t.me/TG_UPDATES1>𝘾𝙇𝙄𝘾𝙆 𝙃𝙀𝙍𝙀</a>
-• ❣️ <a href=https://t.me/TG_UPDATES1>𝘾𝙇𝙄𝘾𝙆 𝙃𝙀𝙍𝙀</a>
+• ❣️ <a href=https://t.me/TG_UPDATES1>UPDATES CHANNEL</a>
+• ❣️ <a href=https://t.me/TG_LINKS_CHANNEL>LINKS CHANNEL</a>
 """
